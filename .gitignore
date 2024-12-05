@@ -1,0 +1,112 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.env
+*.local
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.eslintcache
+/.turbo
+.next/
+
+# Remix-specific
+/.cache/
+build/
+public/build/
+build/*
+.DS_Store
+.env
+.env.local
+.env.test
+.env.production
+.idea/
+.vscode/
+fly.toml
+
+# React
+build/
+coverage/
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Tailwind CSS
+tailwind.config.js
+tailwind.config.cjs
+tailwind.config.ts
+postcss.config.js
+postcss.config.cjs
+postcss.config.ts
+
+# Go
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+*.test
+/go.sum
+/go.work
+*.mod
+
+# IDE/Editor-specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.pid
+*.seed
+
+# Cache and Generated Files
+/dist/
+out/
+*.iml
+*.swp
+*.swo
+*.tmp
+*.lock
+
+# Testing
+coverage/
+*.lcov
+.nyc_output/
+
+# Tailwind JIT files
+purgecss.config.js
+tailwind-intellisense.json
+
+# General
+*.log
+*.pid
+*.bak
+*.seed
+
+# Ignore assets or media (if any)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.webp
+
+# Environment and sensitive files
+.env*
+.key
+*.crt
+*.pem
