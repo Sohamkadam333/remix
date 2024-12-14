@@ -1,0 +1,10 @@
+.user-container {
+	margin: 20px 0px;
+	padding: 20px;
+	background-color: rgba(84, 116, 84, 0.281);
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+}
